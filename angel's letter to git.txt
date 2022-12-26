@@ -1,0 +1,3 @@
+git have its flaws at deduplicing files.
+
+it should never create "foobar" object for foobar.txt, but instead merge from the "foo" and "bar" objects
